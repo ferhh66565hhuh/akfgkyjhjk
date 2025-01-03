@@ -1,0 +1,8 @@
+echo "# akfgkyjhjk" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/ferhh66565hhuh/akfgkyjhjk.git
+git push -u origin main
+warp://188.114.99.18:790#z1&&detour=warp://188.114.99.18:790#z2
